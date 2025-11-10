@@ -3,7 +3,7 @@
 <!--
 **shahnajsc/shahnajsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Aspiring Software Developer transitioning from a career in FinTech software delivery to hands-on software development. Currently advancing technical expertise through Hive Helsinki’s intensive, peer-to-peer, project-based software engineering program, gaining practical experience in C, C++, React, Python, Docker, Git and cloud infrastructure.
+Aspiring Software Developer transitioning from a career in FinTech software delivery to hands-on software development. Currently advancing technical expertise through Hive Helsinki’s intensive, peer-to-peer, project-based software engineering program, gaining practical experience in C, C++, React, Python, AWS, Docker, Git and cloud infrastructure.
 
 #### ⚙️ Interests:
 Web applications development, data science, backend development, systems programming, and software architecture.
